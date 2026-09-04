@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-
+    // Day 02 practice completed
     // ========================================
     // Q1. Area of a Square
     // ========================================
